@@ -1,0 +1,8 @@
+﻿  main.cpp
+G:\code\vstudio\ComputerNet\main.cpp(51,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\code\vstudio\ComputerNet\main.cpp(108,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\code\vstudio\ComputerNet\main.cpp(100,20): warning C4101: “stat”: 未引用的局部变量
+G:\code\vstudio\ComputerNet\main.cpp(128,53): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\code\vstudio\ComputerNet\main.cpp(95): warning C4172: 返回局部变量或临时变量的地址: buf
+G:\code\vstudio\ComputerNet\main.cpp(77): warning C4715: “getFileType”: 不是所有的控件路径都返回值
+  ComputerNet.vcxproj -> G:\code\vstudio\ComputerNet\x64\Debug\ComputerNet.exe
