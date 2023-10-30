@@ -1,3 +1,8 @@
 # 2023_hust_computernetwork_experiment
 2023华中科技大学计算机网络实验
-RDT实验代码在master分支下
+
+20231025更新使用git将RDT实验代码更新在master分支下
+
+20231030更新cpt实验部分，详细操作手册请参考实验说明书
+
+重新上传rdt实验部分，分为GBN SR TCP三个文件夹
