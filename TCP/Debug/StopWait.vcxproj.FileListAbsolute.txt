@@ -1,0 +1,5 @@
+F:\PROJECTS\network\Windows VS2017\StopWait\Debug\StopWait.exe
+F:\PROJECTS\network\Windows VS2017\StopWait\Debug\StopWait.pdb
+G:\desktop\Network-master\GBN_SR_TCP\Debug\StopWait.exe
+G:\desktop\GBN_SR_TCP\Debug\StopWait.exe
+G:\desktop\可靠数据传输\Debug\Rdt.exe
