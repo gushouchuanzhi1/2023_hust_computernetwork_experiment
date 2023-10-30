@@ -1,0 +1,5 @@
+﻿D:\applications\vstudio\ide\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2116,5): warning : The referenced project '..\netsimlib\netsimlib.vcxproj' does not exist.
+D:\applications\vstudio\ide\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Rdt.vcxproj, StopWait.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  main.cpp
+  StopWait.vcxproj -> G:\code\vstudio\RDT\GBN\Debug\GBN.exe
